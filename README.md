@@ -10,4 +10,4 @@ python subon.py
 ```
 
 ## Screenshot
-![Sub-on](ss.png)
+![Sub-on](./ss.png)
